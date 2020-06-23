@@ -1,0 +1,24 @@
+h1{
+    color: lightcoral;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+h1:hover{
+    color: olivedrab;
+}
+.carré{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.carré:active{
+    background-color: salmon;
+}
+
+input:focus{
+    color: teal;
+    border-color: yellowgreen;
+    color: thistle;
+}
